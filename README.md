@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying on ...
-  Konkuk university Dept. of Smart ICT Convergence
+  - Konkuk university Dept. of Smart ICT Convergence
 - 🌱 I’m currently learning ...
-  TinyML
-  Machine Learing
-  Big Data Analysis
+  - TinyML
+  - Machine Learing
+  - Big Data Analysis
   
 
 [![MinjuKim0217's github stats](https://github-readme-stats.vercel.app/api?username=MinjuKim0217)](https://github.com/anuraghazra/github-readme-stats)
