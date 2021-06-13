@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Minju Kim's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+[![MinjuKim0217's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MinjuKim0217/MinjuKim0217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
