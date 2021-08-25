@@ -4,16 +4,16 @@
 
 ### Hi there 👋
 
-##- 🔭 I’m currently studying on: 
+## - 🔭 I’m currently studying on: 
   - Konkuk university Dept. of Smart ICT Convergence
   - **2021 Google MachineLearning Bootcamp**
   
-##- 🌱 I’m currently learning: 
+## - 🌱 I’m currently learning: 
   - TinyML
   - Machine Learing
   - Data Analysis
   
- ##- 📫 How to reach me:
+## - 📫 How to reach me:
   - asdfghjkl0217@naver.com
   - asdfghjkl02177@gmail.com
   - https://velog.io/@mjkiim_0217
