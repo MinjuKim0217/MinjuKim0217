@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=MinjuKim%20&animation=twinkling&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=MinjuKim%20&animation=twinkling&fontSize=90)
 
 
 
