@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying on: 
   - Konkuk university Dept. of Smart ICT Convergence
-  - ##2021 Google MachineLearning Bootcamp##
+  - 2021 Google MachineLearning Bootcamp
   
 - 🌱 I’m currently learning: 
   - TinyML
