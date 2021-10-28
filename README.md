@@ -10,7 +10,7 @@
   
 ## - 🌱 I’m currently learning: 
   - TinyML
-  - Machine Learing
+  - Machine Learning
   - Data Analysis
   
 ## - 📫 How to reach me:
