@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 ## - 🔭 I’m currently studying on: 
-  - Konkuk niversity Dept. of Smart ICT Convergence
+  - Konkuk University Dept. of Smart ICT Convergence
   - 2021 Google Machine Learning Bootcamp
   
 ## - 🌱 I’m currently learning: 
