@@ -2,7 +2,7 @@
 
 
 
-### Hi there  👋
+### Hi there 
 
 ## - 🔭 I’m currently studying on: 
   - Konkuk University Dept. of Smart ICT Convergence
