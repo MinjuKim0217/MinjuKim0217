@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&section=header&text=MinjuKim%20&animation=twinkling&fontSize=60)
 
 
-
-### Hi there 
-
 ## - 🔭 I’m currently studying on: 
   - Konkuk University Dept. of Smart ICT Convergence
   - 2021 Google Machine Learning Bootcamp
