@@ -19,7 +19,6 @@
 [![MinjuKim0217's github stats](https://github-readme-stats.vercel.app/api?username=MinjuKim0217)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> 
