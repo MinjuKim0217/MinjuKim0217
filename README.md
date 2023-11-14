@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&section=header&text=MinjuKim%20&animation=twinkling&fontSize=60)
-
 
 ## - 🔭 I’m currently studying on: 
   - Konkuk University Dept. of Smart ICT Convergence
@@ -9,6 +7,8 @@
   - TinyML
   - Machine Learning
   - Data Analysis
+  - MLOps
+  - Langchain
   
 ## - 📫 How to reach me:
   - asdfghjkl0217@naver.com
