@@ -16,7 +16,12 @@
   - https://velog.io/@mjkiim_0217
   - https://www.linkedin.com/in/%EB%AF%BC%EC%A3%BC-%EA%B9%80-7a570b219/
 
+--
+
 [![MinjuKim0217's github stats](https://github-readme-stats.vercel.app/api?username=MinjuKim0217)](https://github.com/anuraghazra/github-readme-stats)
+
+
+--
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
