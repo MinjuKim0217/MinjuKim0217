@@ -1,10 +1,10 @@
 ## **Minju Kim**  
-**Data Engineer | AI Enthusiast | LLM Explorer**  
+**Data Engineer**  
 
 ---
 
 ### 🚀 **About Me**
-- 💡 Data engineer with a strong focus on **scalable pipelines** and **clean code**.  
+- 💡 Data engineer with a strong focus on **scalable pipelines**.
 - 🔍 Passionate about **MLOps**, **LangChain**, and **LLM-driven solutions**.  
 - 🛠 Constantly seeking the intersection of technology and impact.  
 - 🏭 Driving innovation by integrating **AI** into manufacturing processes.
